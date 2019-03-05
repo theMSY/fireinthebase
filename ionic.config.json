@@ -1,0 +1,7 @@
+{
+  "name": "fireinthebase",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
